@@ -1,0 +1,10 @@
+import os
+
+while True:
+    user_file = raw_input('[+] Enter a filename: ')
+    if os.path.isfile(user_file):
+        # do stuff with file
+         break
+    else:
+        print '[!] Error: Cannot find file: %s. Please try again or Ctrl C to quit...' % user_file
+    continue
