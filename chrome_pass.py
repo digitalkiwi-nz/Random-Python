@@ -1,4 +1,4 @@
-# ChromePass.py:	Decrypt passwords stored by Chrome in "login Data" file (Windows specific)
+# ChromePass.py:	Decrypt passwords stored by Chrome in "Login Data" file (Windows specific)
 # Author:    		David White
 # Date:      		October 2015
 
